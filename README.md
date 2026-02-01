@@ -1,16 +1,13 @@
-## Hi there 👋
+## About Me!
+
+Hello, I’m Gelila. Software Engineer and Data Analyst with experience in data analysis, pipeline development, and DevOps practices, focused on building reliable, scalable data-driven systems.
+
+Analyzing and transforming data using Python and SQL.
+Building and maintaining data pipelines and automation workflows.
+Developing dashboards and visualizations for insights and reporting.
+Deploying and monitoring applications using DevOps tools and cloud platforms.
+Collaborating cross-functionally to deliver data-driven solutions.
 
 <!--
-**g5lila/g5lila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+these are comments
 -->
