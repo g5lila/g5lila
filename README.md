@@ -2,5 +2,5 @@
 
 ## About Me!
 
-Hello, I’m Gelila. I'm a data Analyst with experience in data analysis, pipeline development, and DevOps practices. 
+Hello, I’m Gelila. I'm a data analyst with experience in data analysis, pipeline development, and DevOps practices. 
 
