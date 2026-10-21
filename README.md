@@ -2,5 +2,5 @@
 
 ## About Me!
 
-Hello, I’m Gelila. I'm a data analyst with experience in data analysis, pipeline development, and DevOps practices. 
+Hello, I’m Gelila, a cloud-certified data analyst seeking junior data science roles!
 
